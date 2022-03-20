@@ -13,9 +13,7 @@ I'm Freddy, a 20 years old web developer from Bolivia.
 - 👨‍💻 JavaScript, NodeJs
 - ⚙️ FrontEnd: ReactJs, react-router, redux, html, Css(responsive design), styled-components.
 - 👁️ BackEnd: NodeJs, Express, REST APIS creation, hashing informations, Desing patterns.
-- 💽 Databases:
--     NoSql: MongoDB (Mongoose)
--     Sql: PostgresSql (Sequelize ORM)
+- 💽 Databases: NoSql: MongoDB (Mongoose) and Sql: PostgresSql (Sequelize ORM)
 
 ## Contact
 <!-- - [marton.lederer.hu](https://marton.lederer.hu) -->
